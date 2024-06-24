@@ -7,6 +7,7 @@
 \* * * * * * * * * * * * * * * * * * * * */
 @charset "UTF-8";
 body {
+  background-color: #eceaea;
   margin: 0;
 }
 
@@ -53,7 +54,7 @@ body {
 }
 
 .rk-header {
-  background-color: #fff;
+  background-color: #eceaea;
   position: relative;
   z-index: 5;
 }
@@ -1166,7 +1167,7 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/11.webp");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1175,19 +1176,19 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/46c186bcb31e23d570489b57c972b7c7.jpg");
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/qq.jpg");
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/galaxia-del-molinete.jpg");
 }
 
 .item-5 {
-  background-image: url("../img/project-5.jpg");
+  background-image: url("../img/lenti.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1196,7 +1197,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/irregular.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
@@ -1205,31 +1206,31 @@ body {
 }
 
 .item-7 {
-  background-image: url("../img/project-7.jpg");
+  background-image: url("../img/enana.webp");
 }
 
 .item-8 {
-  background-image: url("../img/project-8.jpg");
+  background-image: url("../img/super nova.jpg");
 }
 
 .item-9 {
-  background-image: url("../img/project-9.jpg");
+  background-image: url("../img/bbb.jpg");
 }
 
 .item-10 {
-  background-image: url("../img/project-10.jpg");
+  background-image: url("../img/gus.jpg");
 }
 
 .item-11 {
-  background-image: url("../img/project-11.jpg");
+  background-image: url("../img/emision.jpg");
 }
 
 .item-12 {
-  background-image: url("../img/project-12.jpg");
+  background-image: url("../img/reflexion.jpg");
 }
 
 .item-13 {
-  background-image: url("../img/project-13.jpg");
+  background-image: url("../img/obscuras.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-13 {
@@ -1241,11 +1242,11 @@ body {
 }
 
 .item-14 {
-  background-image: url("../img/project-14.jpg");
+  background-image: url("../img/planetaria.jpg");
 }
 
 .item-15 {
-  background-image: url("../img/project-15.jpg");
+  background-image: url("../img/rema.jpg");
 }
 
 @media (min-width: 40em) {
@@ -1350,7 +1351,7 @@ body {
 }
 
 .item-inside-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/hipertextual-investigadores-espanoles-grupos-ghez-y-genzel-esperabamos-nobel-son-mas-20-anos-trabajo-2020914914-scaled.webp");
   background-position: 50% 100%;
   background-size: 350%;
 }
@@ -1366,7 +1367,7 @@ body {
 }
 
 .post-inside-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilo2.jpg");
 }
 
 #layout-grid:checked ~ .rk-portfolio,
@@ -1571,7 +1572,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilo.jpg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-blog .post-1 {
@@ -1641,7 +1642,7 @@ body {
 }
 
 .post-1 {
-  background-image: url("../img/post-1.jpg");
+  background-image: url("../img/fentanilo.jpg");
 }
 @media (min-width: 40em) {
   .rk-blog--columns .post-1 {
@@ -1985,7 +1986,7 @@ body {
   padding-bottom: 4.2rem;
 }
 .rk-menu__sub {
-  background-color: white;
+  background-color: #eceaea;
   left: 0;
   list-style: none;
   margin: 0;
